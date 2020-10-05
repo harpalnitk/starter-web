@@ -13,6 +13,7 @@ On node server
 
 ## Run
 how to run . Run on angular firebase server on the Google
+You can also use azurews server
 
 ## Copyright
 
