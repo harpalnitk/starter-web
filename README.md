@@ -23,3 +23,5 @@ You can also use azurews server
 Added copyright notice
 
 STASHING example changes made
+
+Another line added after stashing operation and before stash apply
