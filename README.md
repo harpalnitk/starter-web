@@ -21,3 +21,5 @@ You can also use azurews server
 ## Copyright
 
 Added copyright notice
+
+STASHING example changes made
