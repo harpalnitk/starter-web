@@ -15,3 +15,5 @@
     jQuery, Modernizr
 	
 	Stashing example text
+	
+	branch stash example 
