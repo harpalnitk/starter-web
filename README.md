@@ -12,4 +12,4 @@ Pay me in my web account
 On node server
 
 ## Run
-how to run
+how to run . Run on angular firebase server on the Google
