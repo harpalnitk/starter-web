@@ -10,3 +10,6 @@ Sample website with plenty of files for demos
 Pay me in my web account
 ## DEployment
 On node server
+
+## Run
+how to run
