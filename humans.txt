@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <google> -- <admin> -- <twitter123@twitter.com>
 
 # THANKS
 
